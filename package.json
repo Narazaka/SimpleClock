@@ -1,0 +1,20 @@
+{
+  "name": "net.narazaka.vrchat.simple-clock",
+  "version": "1.0.3",
+  "displayName": "Simple Clock",
+  "description": "Simple Clock (by Shader)",
+  "author": {
+    "name": "Narazaka",
+    "url": "https://github.com/Narazaka"
+  },
+  "type": "tool",
+  "url" : "https://github.com/Narazaka/SimpleClock.git",
+  "vpmDependencies": {
+    "com.vrchat.worlds": ">=3.1.8",
+    "net.narazaka.unity.tiled-number-shader": ">=1.0.2 <2"
+  },
+  "legacyFolders": {
+    "Assets\\SimpleClock": "eaaa73bc17bb0f3439e5581ad7ff1c31"
+  },
+  "unity": "2019.4"
+}
