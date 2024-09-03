@@ -63,7 +63,7 @@
                 uint second = allSecond % 60;
                 uint minute = allSecond / 60 % 60;
                 uint hour = allSecond / 3600;
-                uint ns[8] = {hour / 10, hour % 10, 10, minute / 10, minute % 10, 10, second / 10, second % 10};
+                uint ns[8] = {hour / 10, hour % 10, 11, minute / 10, minute % 10, 11, second / 10, second % 10};
                 int position = (int)(i.uv.x * 8);
                 float2 tileSize = float2(_UseSizeX / _TexSizeX, _UseSizeY / _TexSizeY);
                 float2 tileOffset = float2(0, 1 - _UseSizeY / _TexSizeY);
