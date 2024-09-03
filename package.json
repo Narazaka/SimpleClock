@@ -11,7 +11,7 @@
   "url" : "https://github.com/Narazaka/SimpleClock.git",
   "vpmDependencies": {
     "com.vrchat.worlds": ">=3.1.8",
-    "net.narazaka.unity.tiled-number-shader": ">=2.0.0 <3"
+    "net.narazaka.unity.tiled-number-shader": ">=2.0.0 <4"
   },
   "legacyFolders": {
     "Assets\\SimpleClock": "eaaa73bc17bb0f3439e5581ad7ff1c31"
